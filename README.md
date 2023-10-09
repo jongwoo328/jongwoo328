@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+개발을 좋아해요
 <!--
 **jongwoo328/jongwoo328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
