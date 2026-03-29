@@ -27,6 +27,7 @@ I like building things
   → CLI tool to detect cloud providers from IP addresses  
   → Useful for debugging infrastructure and identifying traffic origins  
   → Supports batch input & multiple output formats (table, JSON)  
+  → https://github.com/jongwoo328/cloudip
 
 ---
 
