@@ -37,3 +37,7 @@ I like building things
 npx lee-jongwoo
 ```
 A small CLI profile card for terminal 🙂
+
+---
+
+![](https://algora.io/og/user/jongwoo328)
