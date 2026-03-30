@@ -41,3 +41,8 @@ A small CLI profile card for terminal 🙂
 ---
 
 ![](https://algora.io/og/user/jongwoo328)
+
+---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jongwoo328"/>
+</a>
